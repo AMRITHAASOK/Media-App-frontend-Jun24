@@ -1,0 +1,1 @@
+export const serverUrl = 'https://media-app-backend-june24.onrender.com'
